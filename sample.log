@@ -1,0 +1,8 @@
+INFO Application started
+INFO Database connected
+WARNING High memory usage
+ERROR Database connection lost
+INFO Service restarted
+WARNING Disk usage increasing
+ERROR Failed login attempt
+INFO Application running
