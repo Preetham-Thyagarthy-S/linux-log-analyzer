@@ -1,4 +1,8 @@
 #!/bin/bash
+mkdir -p reports
+REPORT_FILE="reports/log_report_$(date +%F_%H-%M-%S).txt"
+exec > >(tee -a "$REPORT_FILE")
+exec 2>&1
 
 LOG_FILE="sample.log"
 

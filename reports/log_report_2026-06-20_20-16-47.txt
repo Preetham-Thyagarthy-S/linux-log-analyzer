@@ -1,0 +1,9 @@
+=================================
+ Linux Log Analysis Report
+=================================
+
+ERROR Entries   : 2
+WARNING Entries : 2
+INFO Entries    : 4
+
+Potential incidents detected!
