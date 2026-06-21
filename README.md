@@ -59,4 +59,10 @@ Potential incidents detected!
 * Incident summary dashboard
 * Automated alert generation
 * Log pattern analysis
+## Phase 3 - Top Error Detection
 
+Features:
+- Identifies repeated error messages
+- Displays the most frequent errors
+- Helps prioritize incident investigation
+- Uses grep, sort, and uniq for log analysis

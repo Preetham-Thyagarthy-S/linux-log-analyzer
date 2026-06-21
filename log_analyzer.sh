@@ -26,3 +26,7 @@ if [ "$ERROR_COUNT" -gt 0 ]; then
 else
     echo "No critical incidents detected."
 fi
+echo ""
+echo "===== Top Error Messages ====="
+
+grep "^ERROR" "$LOG_FILE" | sort | uniq -c | sort -nr

@@ -6,3 +6,6 @@ INFO Service restarted
 WARNING Disk usage increasing
 ERROR Failed login attempt
 INFO Application running
+ERROR Database connection lost
+ERROR Database connection lost
+ERROR Failed login attempt

@@ -1,0 +1,13 @@
+=================================
+ Linux Log Analysis Report
+=================================
+
+ERROR Entries   : 5
+WARNING Entries : 2
+INFO Entries    : 4
+
+Potential incidents detected!
+
+===== Top Error Messages =====
+      3 ERROR Database connection lost
+      2 ERROR Failed login attempt
